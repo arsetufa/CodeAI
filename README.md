@@ -1,7 +1,5 @@
 # Chat-AI
 
-Simple overview of use/purpose.
-
 ## Description
 
 Chat-AI is a web application that uses the OpenAI API to create a chatbot. The application has a frontend and a backend. The frontend is built using React. The backend is built using Node.js and the Express framework.
